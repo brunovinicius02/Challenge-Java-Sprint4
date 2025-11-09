@@ -140,9 +140,10 @@ Content-Type: application/json
 
 ## 👥 Equipe
 
-- **Nome da Equipe:** [Inserir nome]
-- **Integrantes:** [Inserir nomes e RMs]
+- Bruno Vinicius Barbosa – RM: 566366
+- João Pedro Bitencourt Goldoni – RM: 564339
+- Marina Tamagnini Magalhães – RM: 561786
 
----
 
-**Desenvolvido com ❤️ pela equipe FIAP**
+
+
