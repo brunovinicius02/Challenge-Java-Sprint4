@@ -20,6 +20,7 @@ import java.util.List;
 @CrossOrigin(origins = {
     "http://localhost:5173",
     "https://imrea-assistente.vercel.app"
+    "https://challenge-java-sprint4-production.up.railway.app"
 }) // Permite CORS para o frontend React
 public class AgendamentoPacienteController {
 
