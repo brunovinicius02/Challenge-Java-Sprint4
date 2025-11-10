@@ -17,11 +17,7 @@ import java.util.List;
  */
 @RestController
 @RequestMapping("/api/agendamentos")
-@CrossOrigin(origins = {
-    "http://localhost:5173",
-    "https://imrea-assistente.vercel.app",
-    "https://challenge-java-sprint4-production.up.railway.app"
-}) // Permite CORS para o frontend React
+@CrossOrigin(origins = "*") // Permite CORS para o frontend React
 public class AgendamentoPacienteController {
 
     @Autowired
