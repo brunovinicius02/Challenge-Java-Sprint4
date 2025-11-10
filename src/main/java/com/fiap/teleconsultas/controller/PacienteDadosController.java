@@ -17,8 +17,7 @@ import java.util.*;
  */
 @RestController
 @RequestMapping("/api/paciente-dados")
-@CrossOrigin(origins = "*")"
-})
+@CrossOrigin(origins = "*")
 public class PacienteDadosController {
 
     @Autowired
