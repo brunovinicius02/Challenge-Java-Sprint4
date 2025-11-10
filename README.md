@@ -76,8 +76,8 @@ Edite o arquivo `src/main/resources/application.properties`:
 
 ```properties
 spring.datasource.url=jdbc:oracle:thin:@oracle.fiap.com.br:1521:ORCL
-spring.datasource.username=SEU_RM
-spring.datasource.password=SUA_SENHA
+spring.datasource.username=566366
+spring.datasource.password=200896
 ```
 
 ### Passo 3: Instalar dependências
